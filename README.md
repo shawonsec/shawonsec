@@ -32,6 +32,7 @@ Feel free to reach out to me if you're looking for collaboration or just a chat.
 ### Programming Languages:
 - C
 - Python
+- Shellscript
 - JavaScript
 - HTML
 - CSS
@@ -39,5 +40,5 @@ Feel free to reach out to me if you're looking for collaboration or just a chat.
 
 
 
-
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shawonsec&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
