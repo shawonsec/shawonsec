@@ -41,4 +41,4 @@ Feel free to reach out to me if you're looking for collaboration or just a chat.
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shawonsec&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawonsec&layout=compact"/>
